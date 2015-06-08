@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/tracyde/go-simple-web",
+	"GoVersion": "go1.2.2",
+	"Deps": []
+}
